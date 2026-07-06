@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<map xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../../shared/xml/schema/fields.xsd">
+    <fields>
+		<field fieldId="1" weedState="0">
+			<fruit type="UNKNOWN" />
+			<ground type="CULTIVATED" angle="0" />
+			<spray type="NONE" level="0" />
+		</field>
+    </fields>
+</map>

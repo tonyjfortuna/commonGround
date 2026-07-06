@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<map xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../../shared/xml/schema/farmlands.xsd">
+    <farmlands infoLayer="farmlands" pricePerHa="60000">
+		<farmland id="1" priceScale="1" defaultFarmProperty="true"/>
+        <!-- <farmland id="1" priceScale="1" npcName="GRANDPA" defaultFarmProperty="true"/> -->
+        <!-- <farmland id="2" priceScale="1" npcName="GRANDPA" defaultFarmProperty="true"/> -->
+        <!-- <farmland id="3" priceScale="1" npcName="GRANDPA" defaultFarmProperty="true"/> -->
+        <!-- <farmland id="4" priceScale="1" npcName="GRANDPA" defaultFarmProperty="true"/> -->
+        <!-- <farmland id="5" priceScale="1" npcName="GRANDPA" defaultFarmProperty="true"/> -->
+        <!-- <farmland id="6" priceScale="1" npcName="FORESTER" /> -->
+        <!-- <farmland id="7" priceScale="1" npcName="GRANDPA" /> -->
+
+        <!-- <farmland id="42" priceScale="1" npcName="ANIMAL_DEALER" /> -->
+        <!-- <farmland id="43" priceScale="1" npcName="HELPER" /> -->
+        <!-- <farmland id="44" priceScale="1" npcName="GRANDPA" /> -->
+        <!-- <farmland id="45" priceScale="1" npcName="ANIMAL_DEALER" /> -->
+
+        <!-- <farmland id="93" priceScale="2.288123" npcName="FARMER" showOnFarmlandsScreen="false" />  <!-- BGA, farmland bought via placeable -->
+    </farmlands>
+</map>

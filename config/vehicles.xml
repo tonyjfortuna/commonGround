@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<vehicles xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://validation.gdn.giants-software.com/xml/fs25/savegame_vehicles.xsd">
+	<vehicle filename="data/vehicles/lizard/pickup2017/pickup2017.xml"
+         uniqueId="vehiclePickup2017Start001"
+         age="0"
+         farmId="1"
+         propertyState="OWNED"
+         operatingTime="0"
+         selectedObjectIndex="1"
+         subSelectedObjectIndex="1"
+         defaultFarmProperty="true">
+		<component index="1" position="79 79 79" rotation="0 0 0"/>
+		<fillUnit>
+			<unit index="1" fillType="DIESEL" fillLevel="120.000000"/>
+		</fillUnit>
+		<wearable damage="0.000">
+			<wearNode amount="0.000"/>
+		</wearable>
+		<washable>
+			<dirtNode amount="0.000000" wetness="0"/>
+		</washable>
+	</vehicle>
+</vehicles>

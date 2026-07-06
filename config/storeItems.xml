@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<storeItems>
+	<!-- CHAINSAWS -->
+	<storeItem xmlFilename="maps/mapUS/handTools/husqvarna/xp550/xp550.xml"/>
+    <storeItem xmlFilename="maps/mapUS/handTools/jonsered/cs2252/cs2252.xml"/>
+    <storeItem xmlFilename="maps/mapUS/handTools/mcCulloch/cs410/cs410.xml"/>
+    <storeItem xmlFilename="maps/mapUS/handTools/stihl/ms261/ms261.xml"/>
+	<!-- VEHICLES -->
+	<storeItem xmlFilename="$data/vehicles/lizard/pickup2017/pickup2017.xml"/>
+</storeItems>

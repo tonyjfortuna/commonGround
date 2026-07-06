@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<placeables version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://validation.gdn.giants-software.com/xml/fs25/savegame_placeables.xsd">
+    <placeable isPreplaced="true" uniqueId="preplaced_camoTent_Main_9ef916a92be672a14e7ac0b7c6b74f12"/>
+</placeables>

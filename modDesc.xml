@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="90">
+    <author>tonyjfortuna</author>
+    <version>1.0.0.0</version>
+    <title>
+        <en>Common Ground</en>
+    </title>
+    <description>
+        <en><![CDATA[Common Ground 0.0.0.1]]></en>
+        <de><![CDATA[Dies ist die Beispiel Mod Map US.]]></de>
+    </description>
+    <iconFilename>icon.png</iconFilename>
+    <multiplayer supported="true"/>
+	
+	<extraSourceFiles>
+		<sourceFile filename="maps/mapUS/scripts/commonGroundStoreFilter.lua" />
+		<sourceFile filename="maps/mapUS/scripts/commonGroundStartingItems.lua" />
+	</extraSourceFiles>
+	
+    <maps>
+        <map id="SampleModMap" className="Mission00" filename="$dataS/scripts/mission00.lua" configFilename="maps/mapUS/mapUS.xml" defaultVehiclesXMLFilename="maps/mapUS/config/vehicles.xml" defaultHandToolsXMLFilename="maps/mapUS/config/handTools.xml" defaultPlaceablesXMLFilename="maps/mapUS/config/placeables.xml" defaultItemsXMLFilename="maps/mapUS/config/items.xml">
+            <title>
+                <en>Common Ground</en>
+            </title>
+            <description>
+                <en>This is version 1.0.0.0.</en>
+            </description>
+            <iconFilename>preview.png</iconFilename>
+        </map>
+    </maps>
+</modDesc>
